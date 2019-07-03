@@ -12,7 +12,8 @@
 
 ## WMI
 
-* [WMI介绍](wmi/简介.md)
+* [WMI介绍](wmi/01_简介.md)
+  - [介绍WMI](wmi/01_01_介绍WMI.md)
 * [对象介绍](wmi/WMI对象介绍.md)
 * [测试服务响应](wmi/测试服务响应.md)
 * [执行SOAP请求](wmi/执行SOAP请求.md)
