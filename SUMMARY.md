@@ -1,6 +1,13 @@
 # Summary
 * [Introduction](README.md)
 
+## GO
+
+* [环境设置](go/env.md)
+* [go 语言特点](go/特点.md)
+* [go 基本结构和要素](go/基本结构和要素.md)
+
+
 ## Powershell
 
 * [Prepare](powershell/win7prepare.md)
