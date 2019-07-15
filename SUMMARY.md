@@ -7,12 +7,15 @@
 * [go 语言特点](go/特点.md)
 * [go 基本结构和要素](go/基本结构和要素.md)
 * [go 基本类型和运算符](go/基本类型和运算符.md)
+* [go 字符串](go/字符串.md)
+* [go strings 和 strconv 包](go/strings_strconv_pkg.md)
+
 
 
 ## Powershell
 
-* [Prepare](powershell/win7prepare.md)
-* [常用命令](powershell/base.md)
+* [ps Prepare](powershell/win7prepare.md)
+* [ps 常用命令](powershell/base.md)
 
 ## Chocolatey
 

@@ -106,6 +106,7 @@ go get -v github.com/mdempsky/gocode
 
 go get -v github.com/uudashr/gopkgs/cmd/gopkgs
 go get -v github.com/sqs/goreturns
+go get -v github.com/rogpeppe/godef
 ```
 
 + [生成代码文档](https://github.com/oldnicke/Go-Getting-Started-Guide/blob/master/eBook/03.6.md)
