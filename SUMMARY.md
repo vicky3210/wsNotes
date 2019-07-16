@@ -11,6 +11,8 @@
 * [go strings 和 strconv 包](go/06.strings_strconv_pkg.md)
 * [go 时间和日期](go/07.时间和日期.md)
 * [go 指针](go/08.指针.md)
+* [go 控制结构](go/09.控制结构.md)
+* [go 测试多返回值函数的错误](go/10.测试多返回值函数的错误.md)
 
 
 ## Powershell
