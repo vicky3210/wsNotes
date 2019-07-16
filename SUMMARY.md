@@ -3,13 +3,14 @@
 
 ## GO
 
-* [go 环境设置](go/env.md)
-* [go 语言特点](go/特点.md)
-* [go 基本结构和要素](go/基本结构和要素.md)
-* [go 基本类型和运算符](go/基本类型和运算符.md)
-* [go 字符串](go/字符串.md)
-* [go strings 和 strconv 包](go/strings_strconv_pkg.md)
-* [go 时间和日期](go/时间和日期.md)
+* [go 环境设置](go/01.env.md)
+* [go 语言特点](go/02.特点.md)
+* [go 基本结构和要素](go/03.基本结构和要素.md)
+* [go 基本类型和运算符](go/04.基本类型和运算符.md)
+* [go 字符串](go/05.字符串.md)
+* [go strings 和 strconv 包](go/06.strings_strconv_pkg.md)
+* [go 时间和日期](go/07.时间和日期.md)
+* [go 指针](go/08.指针.md)
 
 
 ## Powershell
