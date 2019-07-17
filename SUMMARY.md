@@ -3,7 +3,7 @@
 
 ## GO
 
-* [go 环境设置](go/01.env.md)
+* [go 环境设置](go/01.环境设置.md)
 * [go 语言特点](go/02.特点.md)
 * [go 基本结构和要素](go/03.基本结构和要素.md)
 * [go 基本类型和运算符](go/04.基本类型和运算符.md)
@@ -19,6 +19,7 @@
     * [go continue break](go/09.05.continue.break.md)
     * [go goto label](go/09.06.goto.md)
 * [go 测试多返回值函数的错误](go/10.测试多返回值函数的错误.md)
+* [go 函数](go/11.函数.md)
 
 
 ## Powershell
