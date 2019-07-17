@@ -20,6 +20,8 @@
     * [go goto label](go/09.06.goto.md)
 * [go 测试多返回值函数的错误](go/10.测试多返回值函数的错误.md)
 * [go 函数](go/11.函数.md)
+    * [go 传递变长参数](go/11.01.传递变长参数.md)
+    * [go defer 和 追踪](go/11.02.defer.md)
 
 
 ## Powershell
