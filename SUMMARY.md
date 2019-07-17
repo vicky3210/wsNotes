@@ -12,6 +12,12 @@
 * [go 时间和日期](go/07.时间和日期.md)
 * [go 指针](go/08.指针.md)
 * [go 控制结构](go/09.控制结构.md)
+    * [go if - else](go/09.01.ifelse.md)
+    * [go switch](go/09.02.switch.md)
+    * [go for](go/09.03.for.md)
+    * [go for range](go/09.04.forrange.md)
+    * [go continue break](go/09.05.continue.break.md)
+    * [go goto label](go/09.06.goto.md)
 * [go 测试多返回值函数的错误](go/10.测试多返回值函数的错误.md)
 
 
