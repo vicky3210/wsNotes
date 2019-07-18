@@ -22,6 +22,7 @@
 * [go 函数](go/11.函数.md)
     * [go 传递变长参数](go/11.01.传递变长参数.md)
     * [go defer 和 追踪](go/11.02.defer.md)
+    * [go 内置函数](go/11.03.内置函数.md)
 
 
 ## Powershell
