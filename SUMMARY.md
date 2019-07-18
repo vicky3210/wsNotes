@@ -24,6 +24,7 @@
     * [go defer 和 追踪](go/11.02.defer.md)
     * [go 内置函数](go/11.03.内置函数.md)
     * [go 递归函数](go/11.04.递归函数.md)
+    * [go 函数作为参数](go/11.05.函数作为参数.md)
 
 
 ## Powershell
