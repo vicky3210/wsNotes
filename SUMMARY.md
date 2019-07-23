@@ -27,6 +27,9 @@
     * [go 函数作为参数](go/11.05.函数作为参数.md)
     * [go 闭包](go/11.06.闭包.md)
 * [go 数组与切片](go/12.数组与切片.md)
+  * [go 切片](go/12.01.切片.md)
+  * [go For-range 结构](go/12.02.forrange.md)
+
 
 ## Powershell
 
