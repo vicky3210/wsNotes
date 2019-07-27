@@ -1,9 +1,7 @@
 # Summary
 * [Introduction](README.md)
 
-## 周记录
 
-* [2019 07 15-19](ws/19_07_15_19.md)
 
 ## GO
 
