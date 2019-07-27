@@ -31,6 +31,9 @@
 * [go 数组与切片](go/12.数组与切片.md)
   * [go 切片](go/12.01.切片.md)
   * [go For-range 结构](go/12.02.forrange.md)
+* [go Map](go/13.map.md)
+    * [go 测试键值对是否存在及删除元素](go/13.01.map.key.value.md)
+* [go 包](go/14.package.md)
 
 
 ## Powershell
