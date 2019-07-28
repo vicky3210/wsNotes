@@ -7,6 +7,7 @@
 
 * [go 语言简介](go/0.简介.md)
   * [go 环境设置](go/01.01.环境设置.md)
+  * [go 开源项目](go/01.02.public.proj.md)
 * [go 基本结构和要素](go/03.基本结构和要素.md)
 * [go 基本类型和运算符](go/04.基本类型和运算符.md)
 * [go 字符串](go/05.字符串.md)
@@ -40,6 +41,7 @@
     * [go 自定义包和可见性](go/14.04.custom.package.md)
     * [go 为自定义包使用 godoc](go/14.05.custom.godoc.md)
     * [go 使用 go install 安装自定义包](go/14.06.goinstall.md)
+    * [go 自定义包的目录结构、go install 和 go test](go/14.07.custom.package.tree.md)
     
 
 
