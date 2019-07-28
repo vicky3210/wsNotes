@@ -34,6 +34,13 @@
 * [go Map](go/13.map.md)
     * [go 测试键值对是否存在及删除元素](go/13.01.map.key.value.md)
 * [go 包](go/14.package.md)
+    * [go regexp 包](go/14.01.regexp.md)
+    * [go 锁和 sync 包](go/14.02.lock.sync.md)
+    * [go 精密计算和 big 包](go/14.03.big.md)
+    * [go 自定义包和可见性](go/14.04.custom.package.md)
+    * [go 为自定义包使用 godoc](go/14.05.custom.godoc.md)
+    * [go 使用 go install 安装自定义包](go/14.06.goinstall.md)
+    
 
 
 ## Powershell
