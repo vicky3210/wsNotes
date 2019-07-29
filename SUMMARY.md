@@ -42,7 +42,8 @@
     * [go 为自定义包使用 godoc](go/14.05.custom.godoc.md)
     * [go 使用 go install 安装自定义包](go/14.06.goinstall.md)
     * [go 自定义包的目录结构、go install 和 go test](go/14.07.custom.package.tree.md)
-    
+    * [go 通过 Git 打包和安装](go/14.08.git.package.md)
+
 
 
 ## Powershell
